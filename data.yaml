@@ -1,0 +1,6 @@
+path: /home/u875d38cedc0a6f491967124427b2719/yolo_data
+train: images/train
+val: images/test
+
+nc: 1
+names: ['license_plate']
